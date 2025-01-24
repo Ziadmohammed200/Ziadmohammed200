@@ -42,7 +42,7 @@ I'm Ziad Mohamed – A passionate Systems and Biomedical Engineering Student �
 
 ## 📫 Let's Connect!
 - **Email:**[mohammedziad016@gmail.com](mailto:mohammedziad016@gmail.com)  
-- **LinkedIn:** [Ziad Mohammed](https://www.linkedin.com/in/ziad-mohammed-903a05269/))  
+- **LinkedIn:** [Ziad Mohammed](https://www.linkedin.com/in/ziad-mohammed-903a05269/)
 
 ---
 
