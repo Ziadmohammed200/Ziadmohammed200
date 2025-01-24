@@ -29,11 +29,17 @@ I'm Ziad Mohamed – A passionate Systems and Biomedical Engineering Student �
 ---
 
 ## 🚀 Featured Projects
+- [**Multi-Channel Signal Viewer**](https://github.com/Ziadmohammed200/Signal-Viewer)    
+  *Monitoring vital signals,enabling real-time monitoring and analysis of medical signals such as ECG, EMG, and EEG.*
+  
 - [**Sampling-Theory Studio**](https://github.com/Ziadmohammed200/Signal-Studio)  
   *This project demonstrates the importance and validation of the Nyquist rate through an interactive desktop application.*
 
-- [**Multi-Channel Signal Viewer**](https://github.com/Ziadmohammed200/Signal-Viewer)    
-  *Monitoring vital signals,enabling real-time monitoring and analysis of medical signals such as ECG, EMG, and EEG.*
+- [**Signal Equilizer Application**](https://github.com/Ziadmohammed200/Signal-Equalizer-Application)
+  *A robust desktop application designed to modify frequency components of audio signals in real time. With multiple equalization modes and dynamic visualizations*
+
+- [**Fourier Transform and Beamforming Toolkit**](https://github.com/Ziadmohammed200/Fourier-Transform-and-Beamforming-Toolkit)
+  *This project includes two major components: a Fourier Transform (FT) Magnitude/Phase Mixer and a Beamforming Simulator*
 
 - [**Signal Fingerprinting Application**](https://github.com/Ziadmohammed200/Song-Recognition)
   *The Signal Fingerprinting Application identifies sound files based on intrinsic features extracted from their spectrograms*
