@@ -8,7 +8,7 @@ I'm Ziad Mohamed – A passionate Systems and Biomedical Engineering Student �
 ## 🧠 About Me
 - 🎓 **3rd Year Student** in **Systems and Biomedical Engineering**  
 - 💻 Interested in: Biomedical Signal Processing, AI in Healthcare, and Embedded Systems  
-- 🌱 Currently learning: DSP and Python for Biomedical Applications  
+- 🌱 Currently learning: DSP and Image Processing for Biomedical Applications  
 - 🤝 Looking for: Internships, research collaborations, and open-source opportunities in healthcare tech  
 
 ---
